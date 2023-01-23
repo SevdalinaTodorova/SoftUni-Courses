@@ -1,2 +1,2 @@
 # SoftUni-Courses
-MY SoftUni courses 
+SoftUni exercises from BASICS and FUNDAMENTALS
